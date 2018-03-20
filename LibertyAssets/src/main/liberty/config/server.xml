@@ -17,6 +17,6 @@
   <!-- Automatically expand WAR files and EAR files -->
   <applicationManager autoExpand="true"/>
 
-  <webApplication name="JavaMicroProfileJavaEEMicroserviceNBTUD" location="${app.location}"/>
+  <webApplication name="JavaMicroservice" location="${app.location}"/>
 
 </server>

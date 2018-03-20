@@ -33,7 +33,7 @@ app.listen(port, function(){
 var options = {
   host: 'localhost',
   port: 9080,
-  path: '/JavaMicroProfileJavaEEMicroserviceNBTUD/',
+  path: '/JavaMicroservice/',
   headers: {
     'Accept': 'text/html'
   }
