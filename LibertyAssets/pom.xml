@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>projects</groupId>
-    <artifactId>JavaMicroservice</artifactId>
+    <artifactId>JavaMicroserviceApp</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 

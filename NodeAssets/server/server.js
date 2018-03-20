@@ -2,7 +2,7 @@
 var appzip = require('appmetrics-zipkin')({
     host: 'localhost',
      port: 9411,
-     serviceName:'Express-js'
+     serviceName:'NodeMicroservice'
 });
 
 require('appmetrics-dash').attach();
